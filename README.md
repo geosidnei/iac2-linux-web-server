@@ -3,7 +3,7 @@
 ## Imagem 1: script em bash - autoria do professor Denilson Bonatti.
 
 ![Img1_script.png]https://github.com/geosidnei/iac2-linux-web-server/blob/main/Img1_script.png
-![Img1_script]https://github.com/geosidnei/iac2-linux-web-server/blob/main/Img1_script.png
+![Img1_script](https://github.com/geosidnei/iac2-linux-web-server/blob/main/Img1_script.png)
 
 
 ## Imagem 2: janelas do ambiente de desenvolvimento.
