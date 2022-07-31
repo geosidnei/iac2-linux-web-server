@@ -2,8 +2,7 @@
 
 ## Imagem 1: script em bash - autoria do professor Denilson Bonatti.
 
-![Tela1](https://github.com/geosidnei/UnivespSADpython-PI4/blob/master/Tela1.png)
-![img1](https://github.com/geosidnei/iac2-linux-web-server/blob/master/img1.png)
+![Img1_script.png]https://github.com/geosidnei/iac2-linux-web-server/blob/main/Img1_script.png
 
 
 ## Imagem 2: janelas do ambiente de desenvolvimento.
