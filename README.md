@@ -1,7 +1,7 @@
 # iac2-linux-web-server
 
-# imagem 1: script
+## Imagem 1: script em bash - autoria do professor Denilson Bonatti.
 
-# imagem 2: janelas
+## Imagem 2: janelas do ambiente de desenvolvimento.
 
-# imagem 3: site do professor
+## Imagem 3: site do professor Bonatti rodando na minha máquina.
